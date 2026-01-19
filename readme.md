@@ -8,6 +8,7 @@ Here, you will find various projects I have written that showcase this journey.
 - Social media platforms
 - Indie games
 - Distributed systems
+- Self-hosting and privacy
 
 # Languages
 - Python
