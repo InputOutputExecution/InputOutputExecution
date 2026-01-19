@@ -17,6 +17,7 @@ Here, you will find various projects I have written that showcase this journey.
 - Rust
 - Lua
 - Php
+- Javascript
 
 # Technologies
 ## Tools and Environments
@@ -25,10 +26,17 @@ Here, you will find various projects I have written that showcase this journey.
 - Linux / WSL
 - Windows
 
+## Iot
+- Arduino
+- ESP32
+- Mqtt
+
 ## Web Frameworks
 - Flask
 - Django
 - ASP.NET
+- Laravel
+- Vue
 
 ## Game Development
 - Godot
